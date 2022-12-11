@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="app-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#fff685"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.40622725"
+     inkscape:cx="151.39309"
+     inkscape:cy="366.78977"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-11.751972"
+       y="-0.82662178"
+       width="523.30139"
+       height="510.11527"
+       id="rect1884" />
+    <rect
+       x="-0.931836"
+       y="-0.71196459"
+       width="797.83314"
+       height="702.34085"
+       id="rect113" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1882"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:483.78px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect1884);fill:#ffcc00;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:483.78px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e3dedb;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       x="239.93684"
+       y="403.59064"
+       id="text1890"><tspan
+         id="tspan1888"
+         x="239.93684"
+         y="403.59064"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:377.953px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e3dedb;fill-opacity:1">P</tspan></text>
+    <path
+       style="fill:#e3dedb;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1"
+       d="m 159.72795,385.05827 h 39.38204 l -0.27848,0.13693"
+       id="path3500" />
+    <path
+       style="fill:#e3dedb;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1"
+       d="M 199.44827,301.91344 V 264.26246"
+       id="path3502" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="path3631"
+       sodipodi:type="arc"
+       sodipodi:cx="179.85538"
+       sodipodi:cy="385.3045"
+       sodipodi:rx="19.501539"
+       sodipodi:ry="19.501539"
+       sodipodi:start="0"
+       sodipodi:end="3.1168872"
+       sodipodi:arc-type="slice"
+       d="m 199.35692,385.3045 a 19.501539,19.501539 0 0 1 -19.26065,19.50006 19.501539,19.501539 0 0 1 -19.73648,-19.01831 l 19.49559,-0.48175 z" />
+  </g>
+</svg>
